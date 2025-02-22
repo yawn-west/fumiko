@@ -1,0 +1,2 @@
+# fumiko
+Find duplicated files.
