@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Fumiko",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "fumiko.main",
+            "justMyCode": true,
+            "console": "integratedTerminal"
+        }
+    ]
+}
